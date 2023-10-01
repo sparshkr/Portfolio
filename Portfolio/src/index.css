@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+
+}
+
+
+.box{
+  margin-bottom: 20px;
+}
+
+
+.box1,.box2,.box3,.box4,.box5{
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.project{
+  display: flex;
+  flex-direction: column;
+}
+
+.a{
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
